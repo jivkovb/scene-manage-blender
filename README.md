@@ -1,6 +1,6 @@
 # Scene Manager — Blender Add-on
 
-A multi-setup render variant manager for Blender 4.2+, inspired by the workflow of Pulze Scene Manager for 3ds Max.
+A multi-setup render variant manager for Blender.
 
 ## What it does
 
