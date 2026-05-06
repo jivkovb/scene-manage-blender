@@ -1,6 +1,6 @@
 # Scene Manager — Blender Add-on
 
-A multi-setup render variant manager for Blender.
+Scene manager for Blender
 
 ## What it does
 
