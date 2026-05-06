@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "scene_manager"
+version = "0.1.0"
+name = "Scene Manager"
+tagline = "Multi-setup shot/variant manager — the Pulze workflow for Blender"
+maintainer = "Scene Manager Developer"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+category = "Render"
+
+[permissions]
+files = "Read and write render output files and directories"
